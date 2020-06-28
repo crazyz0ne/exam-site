@@ -1,0 +1,155 @@
+body{font-family: Larsseit;}
+
+/*БЕСПОЛЕЗНАЯ ШАПКА, КОТОРУЮ Я СДЕЛАЛ СЛУЧАЙНО*/
+.info p{padding-right: 100px;color: #A259FF;font-size: 16px;margin-bottom: 30px;}
+.info {	align-items: center; padding-right: 200px;}
+.info h1{font-weight: bold;font-size: 72px;}
+.bottomp{	font-size: 32px;padding-right: 228px;}
+
+.links{margin: 50px 0 120px 170px;}
+.links a{margin-left: 70px;color: #1ABCFE;font-size: 24px;}
+
+
+.header p{	text-align: center; }
+.header h3{	font-size: 20px;color: #696969;	margin-left: 240px;}
+.header{margin-top: 100px;}
+.header img{	padding-bottom: 80px;margin-left: 300px;}
+
+
+/*Thrivetalk BLOCK*/
+.main 
+{
+margin: 100px 300px 0 300px;
+background-color: #F4F9E2;
+background-repeat: no-repeat;
+background-size: auto 100%;
+padding-top: 40px;
+background-image: url("images/first info back.png");
+background-position: right;
+}
+.nav_bar h2{ margin-right: 218px;color: #62D0DF;font-size: 24px;margin-bottom: 80px;}
+.main nav ul {text-align: center; padding: 0;margin: 0;list-style: none;}
+.main nav ul li {display: inline-block;margin-left: 30px;}
+.main nav ul li span {border-bottom: solid #22356F 2px;padding-bottom: 3px;}
+.main nav ul li a {color: #22356F;font-size: 14px;text-decoration: none;}
+.nav_bar button{margin-left: 250px;margin-right: 50px;border-radius: 50px;background-color: #62D0DF;color: white;height: 50px;border: none;padding: 0 20px 0 20px;}
+
+.first_info{width: 500px;margin-left: 70px;margin-top: 50px;}
+.first_info h1{font-size: 48px;color: #22356F;margin-bottom: 80px;}
+.first_info h2{color: #62D0DF;font-size: 24px;margin-bottom: 40px;}
+.first_info h3{font-size: 24px;color: #22356F;line-height: 1.7;}
+
+.first_button{color: white;font-size: 15px;font-weight: bold;border: none;background-color: #F9B640;height: 50px;text-align: center;width: 150px;margin-left: 80px;margin-top: 50px;}
+.second_button{color: #F9B640;font-size: 15px;font-weight: bold;border: none;background-color: #F4F9E2;height: 50px;text-align: center;width: 150px;margin-top: 50px;margin-left: 10px;margin-bottom: 60px;}
+
+
+
+/*WHY THRIVE BLOCK*/
+.Why_Thrive
+{
+padding-left: 120px;
+margin: 0 300px 120px 300px;
+background-color: #62D0DF;
+background-image: url("images/Why Thrive back.png");
+background-repeat: no-repeat;
+background-position: right;
+}
+.Why_Thrive h1{font-size: 36px;padding-top: 110px;padding-bottom: 100px;}
+.Why_Thrive h2{font-size: 24px;font-style: bold;line-height: 35px;padding-bottom: 80px;}
+.Why_Thrive span{font-size: 19px;line-height: 35px;}
+.Why_Thrive_text{width: 560px;color: white;}
+
+
+
+/*ABOUB US BLOCK*/
+.ABOUT_US{margin: 0 300px 0 300px;}
+.about_blocks{display: flex;margin-bottom: 50px;}
+.ABOUT_US h2{font-size: 24px;line-height: 34px;color: #22356F;}
+
+.ABOUT_US_link{width: 240px;}
+.ABOUT_US_link a{text-decoration: none;color: #22356F;}
+
+.ABOUT_US_text{width: 600px;}
+.ABOUT_US p{font-size: 16px;text-align: center;color: rgba(34, 53, 111, 0.5);}
+
+.about_blocks_under{display: flex;margin-bottom: 100px;}
+.about_block{width: 100%;height: 350px;padding-top: 70px;}
+.about_block2{height: 450px;padding-top: 80px;}
+.about_block ul{color: white;border-top: solid white 1px;margin: 0 40px 0 50px;padding: 15px;}
+.about_block li{color: #E9B730;font-size: 20px;}
+.about_block2 ul{color: white;border-top: solid white 1px;margin: 0 40px 0 40px;padding-right: 50px;display: flex;}
+.about_block2 li{color: #E9B730;font-size: 25px;}
+
+.li_text{color: white;font-size: 26px;font-style: bold;font-weight: bold;letter-spacing: -0.006em;margin-top: 20px;}
+
+ /*BANNER COLORS*/
+.pink{background-color: #FFE2DE;}
+.green{background-color: #C4E769;}
+.seablue{background-color: #62D0DF;}
+.blue{background-color: #0052C1;}
+.darkblue{background-color: #22356F;}
+.pinkwhite{background-color: #DEE1FF;}
+.imageback{background-image: url("images/block backgroubd.png");}
+.purple{background-color: #8F00FF;}
+
+
+/*WHAT WE DO BLOCK*/
+.what_we_do{margin: 0 300px 0 300px;}
+
+.textbox p{color: rgba(34, 53, 111, 0.5);font-size: 14px;line-height: 25px;letter-spacing: -0.03em;}
+.textbox h2{color: #22356F;font-size: 24px;line-height: 33px;letter-spacing: -0.03em;}
+.what_we_do_flex{display: flex;flex-direction: row;justify-content: center;}
+.what_we_do_block{margin: 40px 90px;}
+
+
+
+/*YOU SHOUKD AKSI KNOW*/
+.YOU_SHOULD_ALSO_KNOW
+{
+margin: 0 300px 0 300px; 
+background-image: url("images/you should also know back.png");
+background-repeat: no-repeat;
+background-position: left;
+height: 700px;
+padding-top: 50px;
+}
+.YOU_SHOULD_ALSO_KNOW h2{margin: 120px 0 120px 0;font-size: 32px;color: #22356F;line-height: 53px;letter-spacing: -0.01em;font-weight: bold;}
+.YOU_SHOULD_ALSO_KNOW p{font-size: 16px;color: #22356F;}
+.YOU_SHOULD_ALSO_KNOW h3{font-size: 16px;color: #FAB63E;}
+.YOU_SHOULD_ALSO_KNOW_text{padding-left: 560px;padding-top: 80px;width: 1210px;}
+.YOU_SHOULD_ALSO_KNOW_text span{color: #6CD3E1;}
+
+/*CONTACT US*/
+.CONTACT_US
+{
+	margin: 0 300px 0 300px;
+	background-color: #22356F;
+	background-image: url("images/contact us nigga man.png");
+	background-repeat: no-repeat;
+    background-position: right;
+}
+.CONTACT_US_text a{color: white;}
+.CONTACT_US_text{color: white;width: 560px;padding: 70px 0 0px 150px;}
+.CONTACT_US_text p{font-size: 14px;margin-bottom: 200px;}
+.CONTACT_US_text h1{font-size: 50px;margin-bottom: 50px;}
+.CONTACT_US_text h2{font-size: 25px;margin-bottom: 50px;line-height: 53px;letter-spacing: -0.005em;}
+.CONTACT_US_text h3{font-size: 12px;line-height: 23px;padding-bottom: 50px;align-items: center;letter-spacing: 0.1em;color: #62D0DF;} 
+
+
+
+/*FOOTER*/
+.footer
+{
+margin: 0 300px 0 300px;
+background-image: url("images/footer nigga girl.png");
+background-repeat: no-repeat;
+background-position: left;
+}
+.footer_text{display: flex;margin-left: 600px;margin-top: -22px;padding-top: 70px;padding-bottom: 50px;}
+.text_block{width: 250px;margin: 0 30px 0 20px;}
+.text_block h3{color: #22356F;font-size: 15px;font-weight: bold;}
+.text_block p{color: rgba(34, 53, 111, 0.5);font-size: 14px;padding-top: 50px;}
+.text_block span{color: #006DFF;}
+.footer_bar{background-color: #62D0DF;width: 100%;height: 70px;}
+.footer_bar_text{padding: 20px 0 0 140px;}
+.footer_bar_text p{color: white;}
